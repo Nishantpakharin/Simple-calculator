@@ -21,3 +21,5 @@ print(f'The Addition of {x} and {y} is {a}')
 print(f'The Subtraction of {x} and {y} is {s}')
 print(f'The Multiplication of {x} and {y} is {m}')
 print(f'The Division of {x} and {y} is {d}')
+
+print('Happy')
